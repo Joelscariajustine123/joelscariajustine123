@@ -1,97 +1,162 @@
 <h1 align="center">Hi 👋, I'm Joel Scaria Justine</h1>
-<h3 align="center">Python Full Stack Developer | Cybersecurity Enthusiast | Flutter Developer</h3>
+
+<h3 align="center">
+🚀 Director @ Veinbit Software Solutions LLP <br>
+💻 Python Full Stack Developer | 📱 Flutter Developer | 🛡️ Cybersecurity Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+%7C+Flutter+Developer;Cybersecurity+Enthusiast;REST+API+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Director+%40+Veinbit+Software+Solutions+LLP;Python+Full+Stack+Developer;Flutter+Developer;Django+REST+API+Developer;Cybersecurity+Enthusiast;Building+Scalable+Software+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Joelscariajustine123">
+<img src="https://img.shields.io/github/followers/Joelscariajustine123?label=Followers&style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Joelscariajustine123&label=Profile+Views&style=for-the-badge&color=0e75b6">
+
+<img src="https://img.shields.io/github/stars/Joelscariajustine123?affiliations=OWNER&style=for-the-badge">
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech Computer Science Engineering Graduate
-- 💼 Python Full Stack Developer
-- 🛡️ Cybersecurity Enthusiast
-- 📱 Flutter App Developer
-- 🌐 WordPress Developer
-- 🚀 Passionate about building scalable web & mobile applications
-- 🌱 Currently learning Cloud Technologies & Advanced Backend Development
+🚀 Director at **Veinbit Software Solutions LLP**
+
+💻 Python Full Stack Developer
+
+📱 Flutter App Developer
+
+🌐 Django & REST API Developer
+
+🛡️ Cybersecurity Enthusiast
+
+👨‍🏫 Python Trainer & Technical Mentor
+
+🎓 B.Tech Computer Science Engineering Graduate
+
+🌱 Passionate about Software Development, AI, Cloud Computing & Cybersecurity
+
+💡 I love building scalable web applications, enterprise software, mobile apps and automation solutions.
 
 ---
 
-## 🚀 Tech Stack
+# 🏢 Current Position
 
-### 💻 Languages
+## Director
+### Veinbit Software Solutions LLP
+
+Leading software development projects, client solutions, internship programs, and innovative technology products.
+
+### Responsibilities
+
+- Software Development
+- Project Management
+- Team Leadership
+- Technical Mentoring
+- AI & Automation
+- Cloud Solutions
+- Mobile Application Development
+- Web Development
+- Business Growth
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,dart,html,css" />
+<img src="https://skillicons.dev/icons?i=python,javascript,dart,html,css,c" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+## Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flutter,react,tailwind,firebase" />
+<img src="https://skillicons.dev/icons?i=django,flutter,react,firebase,tailwind,bootstrap" />
 </p>
 
-### 🗄️ Databases
+## Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-### 🛠️ Tools
+## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
 </p>
 
-### 🔐 Cybersecurity
+## Cybersecurity
 
 <p>
-<img src="https://img.shields.io/badge/Nmap-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-005571?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge">
+
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 🎓 Slot Management System
-> Flutter + Django + Firebase
+## 🎓 Slot Management System
 
-✔ Student Management  
-✔ Faculty & Course Management  
-✔ Slot Allocation  
-✔ Reports & Analytics
+Flutter + Django + Firebase
 
----
-
-### 💳 Smart Billing System
-> Django + MySQL
-
-✔ Invoice Generation  
-✔ Product Management  
-✔ Sales Reports
+- Student Management
+- Faculty Management
+- Slot Allocation
+- Attendance
+- Reports
 
 ---
 
-### ✈️ Travel Package Booking System
+## 💳 Smart Billing System
 
-✔ Booking Management  
-✔ Customer Portal  
-✔ Admin Dashboard
+Django + MySQL
 
----
-
-### 🌐 Portfolio Website
-
-Modern responsive portfolio built with React + Tailwind CSS.
+- Invoice Generation
+- Inventory Management
+- Reports
+- Customer Management
 
 ---
 
-## 📈 GitHub Statistics
+## ✈️ Travel Package Booking System
+
+- Package Booking
+- Customer Portal
+- Admin Dashboard
+- Payment Management
+
+---
+
+## 🌐 Portfolio Website
+
+Modern responsive portfolio built using React.
+
+---
+
+## 🤖 AI Projects
+
+- AI Automation
+- OCR Based Applications
+- Image Processing
+- Chatbot Integrations
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -109,7 +174,7 @@ Modern responsive portfolio built with React + Tailwind CSS.
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -119,15 +184,54 @@ Modern responsive portfolio built with React + Tailwind CSS.
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
-[![Joel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joelscariajustine123&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joelscariajustine123&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📌 Currently Working On
 
-<p align="left">
+- 🚀 Enterprise Web Applications
+- 📱 Flutter Mobile Applications
+- 🤖 AI Powered Software
+- ☁️ Cloud Based Solutions
+- 🔒 Cybersecurity Research
+- 🌐 REST APIs
+- 🏢 Business Software Solutions
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Django
+- Docker
+- Kubernetes
+- AWS
+- DevOps
+- Machine Learning
+- System Design
+
+---
+
+# 🎯 Goals for 2026
+
+- ⭐ Contribute to Open Source
+- ⭐ Build SaaS Products
+- ⭐ Publish Flutter Packages
+- ⭐ Master Cloud Computing
+- ⭐ Grow Veinbit Software Solutions LLP
+- ⭐ Become a Senior Software Architect
+
+---
+
+# 🌍 Connect With Me
+
+<p>
 
 <a href="https://github.com/Joelscariajustine123">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -138,21 +242,51 @@ Modern responsive portfolio built with React + Tailwind CSS.
 </a>
 
 <a href="mailto:joelscaria2020@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://veinbit.com">
+<img src="https://img.shields.io/badge/Veinbit-Website-blue?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
+# 💬 Favorite Quote
 
-> *"Code with purpose. Learn continuously. Secure everything."*
+> **"Great software isn't just built with code—it's built with vision, innovation, and continuous learning."**
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Joelscariajustine123&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joelscariajustine123&theme=tokyonight">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joelscariajustine123&theme=tokyonight">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joelscariajustine123&theme=tokyonight">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joelscariajustine123&theme=tokyonight">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joelscariajustine123&theme=tokyonight&utcOffset=5.5">
+
+</p>
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile ❤️
+
+*"Building technology that creates impact."*
 
 </p>
