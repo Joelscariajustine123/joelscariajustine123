@@ -159,17 +159,12 @@ Modern responsive portfolio built using React.
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joelscariajustine123&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Joelscariajustine123&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joelscariajustine123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Joelscariajustine123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelscariajustine123&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelscariajustine123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -177,9 +172,7 @@ Modern responsive portfolio built using React.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Joelscariajustine123&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Joelscariajustine123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -187,11 +180,8 @@ Modern responsive portfolio built using React.
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joelscariajustine123&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joelscariajustine123&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-
 ---
 
 # 📌 Currently Working On
